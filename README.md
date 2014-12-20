@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first git repo
+I've edited the file to close the issue
